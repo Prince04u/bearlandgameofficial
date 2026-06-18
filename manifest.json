@@ -1,0 +1,16 @@
+{
+  "name": "Bear Land",
+  "short_name": "BearLand",
+  "description": "The Ultimate Minecraft Adventure Network",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070707",
+  "theme_color": "#f5c518",
+  "icons": [
+    {
+      "src": "/assets/images/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
